@@ -1,15 +1,5 @@
 #### MY01 Mask Websocket Server
 
-## Part 0. Env
-Your Panel Port is: 33553
-Your Username will be generated randomly: 2rd6WGhg4k
-Your Password will be generated randomly: bmRqY1qgyT
-Your Web Base Path will be generated randomly: appeuujEcLm8Fkj
-
-catzillaw
-sspnxlhp
-/chillbababoom/
-
 ## Part 1. Setup server
 
 ##### adduser
